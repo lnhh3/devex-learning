@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465804489735",
+    "firebase_url": "https://devexlearning-b1fc6-default-rtdb.firebaseio.com",
+    "project_id": "devexlearning-b1fc6",
+    "storage_bucket": "devexlearning-b1fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465804489735:android:9f41b70b00164204d826a2",
+        "android_client_info": {
+          "package_name": "com.project.devexlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465804489735-f57ons0kc7htduo44f26oqj39ncsruji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARH2puiyGODOa3uS8JFghoOjQ_jr_yFT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465804489735-f57ons0kc7htduo44f26oqj39ncsruji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
